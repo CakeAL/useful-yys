@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Usefulyys
 
-## Setup
+A minecraft mod that can let anyone use yys.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+![ycE09U.png](https://s3.ax1x.com/2021/02/16/ycE09U.png)
