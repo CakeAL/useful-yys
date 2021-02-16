@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item":"minecraft:wooden_axe"},
+    {"item":"minecraft:crafting_table"},
+    {"item":"minecraft:ink_sac"}],
+  "result": {
+    "item": "usefulyys:gszotdugigqi",
+    "count": 1
+  }
+}
